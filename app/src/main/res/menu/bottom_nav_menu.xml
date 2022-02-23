@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:enabled="true"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_sale"
+        android:icon="@drawable/saleslogo"
+        android:enabled="true"
+        android:title="Sale" />
+
+    <item
+        android:id="@+id/navigation_purchase"
+        android:icon="@drawable/ic_baseline_purchase_24"
+        android:enabled="true"
+        android:title="Purchase" />
+
+    <item
+        android:id="@+id/navigation_bill"
+        android:icon="@drawable/ic_baseline_bills_24"
+        android:enabled="true"
+        android:title="Bill" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_baseline_profile_24"
+        android:enabled="true"
+        android:title="Profile" />
+
+</menu>
+<!--    shopping cart/local grocery store-->
+<!--    receipt-->
+
+<!--    multiline chart / insights-->

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "623771489250",
+    "project_id": "ebill-932aa",
+    "storage_bucket": "ebill-932aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623771489250:android:0d1460a583f98167225fbb",
+        "android_client_info": {
+          "package_name": "com.example.ebill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623771489250-0ia36eg5pdsokq0v6soudmg1lhdsc74e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-jOEclW7EKoUg2OzIe0gQG0zxL6R0GkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623771489250-0ia36eg5pdsokq0v6soudmg1lhdsc74e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
